@@ -204,3 +204,18 @@ footer ul{
     list-style-type: none; 
     display: inline;
 }
+
+.copyright{
+  text-align: center;
+}
+
+footer hr{
+  border: none;
+  background: #b5b5b5;
+  height: 1px;
+  margin: 20px 0;
+}
+
+footer p{
+  color: #8a8a8a;
+}
